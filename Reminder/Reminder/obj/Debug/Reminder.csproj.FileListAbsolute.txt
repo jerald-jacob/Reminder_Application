@@ -1,0 +1,10 @@
+E:\Reminder .net project\Reminder\Reminder\bin\Debug\Reminder.exe.config
+E:\Reminder .net project\Reminder\Reminder\bin\Debug\Reminder.exe
+E:\Reminder .net project\Reminder\Reminder\bin\Debug\Reminder.pdb
+E:\Reminder .net project\Reminder\Reminder\obj\Debug\Reminder.csprojResolveAssemblyReference.cache
+E:\Reminder .net project\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+E:\Reminder .net project\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.Cache
+E:\Reminder .net project\Reminder\Reminder\obj\Debug\Reminder.exe
+E:\Reminder .net project\Reminder\Reminder\obj\Debug\Reminder.pdb
+E:\Reminder .net project\Reminder\Reminder\obj\Debug\Reminder.ReminderForm.resources
+E:\Reminder .net project\Reminder\Reminder\obj\Debug\Reminder.Form2.resources
